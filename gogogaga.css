@@ -1,0 +1,198 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.gogaga-logo {
+    width: 140px;
+    height: 70px;
+}
+
+#navItem1 {
+    color: #3778A0;
+    font-family: "future";
+}
+
+#navItem2 {
+    color: #3778A0;
+    font-family: "future";
+}
+
+#navItem3 {
+    color: #3778A0;
+    font-family: "future";
+}
+
+#navItem4 {
+    color: #3778A0;
+    font-family: "future";
+}
+
+#navItem5 {
+    color: #3778A0;
+    font-family: "future";
+
+}
+
+.banner-section-bg-container {
+    background-image: url("https://img.freepik.com/free-photo/backpacker-standing-sunrise-viewpoint-ja-bo-village-mae-hong-son-province-thailand_335224-1356.jpg");
+    height: 100vh;
+    background-size: cover;
+}
+
+.banner-heading {
+    color: #92F0AC;
+    font-family: "Futura";
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.banner-caption {
+    color: #BFC9ED;
+    font-family: "futura";
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.aboutuscard {
+    padding: 20px;
+    margin: 50px;
+}
+
+.aboutus-image {
+    height: 300px;
+    width: 50vw;
+}
+
+.au-section-heading {
+    font-size: 28px;
+    color: #37A03C;
+    font-family: "Futura";
+    font-weight: 700;
+}
+
+.au-section-description {
+    color: #5591D2;
+    font-family: "futura";
+    font-size: 16px;
+}
+
+.au-info-section {
+    background-color: #f9fbfe;
+}
+
+.au-img {
+    width: 270px;
+}
+
+.wcu-section {
+    background-image: url("https://img.freepik.com/free-photo/wooden-bridge-koh-nangyuan-island-surat-thani-thailand_335224-1082.jpg");
+    background-size: cover;
+}
+
+.wcu-section-heading {
+    font-size: 28px;
+    color: #37A03C;
+    font-family: "Futura";
+    font-weight: 700;
+}
+
+.wcu-section-description {
+    color: #5591D2;
+    font-family: "futura";
+    font-size: 16px;
+}
+
+.wcu-card {
+    text-align: center;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #e5eaf4;
+    border-radius: 16px;
+}
+
+.wcu-card-bg1 {
+    background-image: url("https://img.freepik.com/free-photo/young-sexy-romantic-couple-love-happy-summer-beach-together-having-fun-wearing-swim-suits-showing-heart-sign-sundet_285396-6545.jpg");
+    background-size: cover;
+}
+
+.wcu-card-bg2 {
+    background-image: url("https://img.freepik.com/free-photo/full-shot-woman-taking-selfie_23-2149153257.jpg");
+    background-size: cover;
+}
+
+.wcu-card-bg3 {
+    background-image: url("https://img.freepik.com/free-vector/indian-set-temples-architecture_25030-39367.jpg");
+    background-size: cover;
+}
+
+.wcu-card-title {
+    color: white;
+    font-family: "Futura";
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.wcu-card-description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.explore-menu-section {
+    background-image: url("https://images.unsplash.com/photo-1606768666853-403c90a981ad?q=80&w=1742&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+    background-size: cover;
+}
+
+.explore-hotel-section {
+    background-image: url("https://img.freepik.com/free-photo/outdoor-swimming-pool_74190-3607.jpg");
+    background-size: cover;
+}
+
+.menu-section-heading {
+    color: #183b56;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.menu-item-image {
+    border-radius: 16px;
+}
+
+.menu-card-title {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 18px;
+    font-weight: 500;
+    margin-top: 24px;
+}
+
+.menu-item-link {
+    color: green;
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.menu-item-card {
+    border-style: solid;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 16px;
+}
+
+.footer-section {
+    background-color: #0d2436;
+}
+
+.footer-section-mail-id {
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.footer-section-address {
+    color: #959ead;
+    font-family: "Roboto";
+    font-size: 14px;
+}
